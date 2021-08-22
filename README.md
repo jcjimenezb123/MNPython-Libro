@@ -6,15 +6,15 @@
 
 1.1 [Convertir del sistema decimal a otros sistemas](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/decimal2otros.py) . . . . . . . . . . . . . . . 23
 
-1.2 [Error de redondeo en Python](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/erroredondeo.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+1.2 [Error de redondeo en Python](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/erroredondeo.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
 
 1.3 [Serie de MacLaurin de cos(x)](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_cos.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
 
 1.4 [Serie de Taylor de ln(x)](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_ln.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
 
-1.5 [Serie de MacLaurin de ex](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_exp.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+1.5 [Serie de MacLaurin de ex](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_exp.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
 
-1.6 [Serie de MacLaurin de eix](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_expix.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  37
+1.6 [Serie de MacLaurin de eix](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_expix.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
 
 ## :point_right: Ajuste de curvas
 
