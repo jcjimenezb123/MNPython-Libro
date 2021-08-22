@@ -20,11 +20,11 @@
 
 2.1 [Interpolación lineal vs Regresión Lineal](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_regres.py) . . . . . . . . . . . . . . . . . . . . . 39
 
-2.2 [Interpolación lineal Carbonato de Sodio](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_lineal.py) . . . . . . . . . . . . . . . . . . . . . 43
+2.2 [Interpolación lineal Carbonato de Sodio](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_lineal.py) . . . . . . . . . . . . . . . . . . . . 43
 
-2.3 [Interpolación Polinómica de Newton](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_newton.py) . . . . . . . . . . . . . . . . . . . . . . . . 47
+2.3 [Interpolación Polinómica de Newton](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_newton.py) . . . . . . . . . . . . . . . . . . . . . . . 47
 
-2.4 [Interpolación Polinómica de Lagrange](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_lagrange.py) . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+2.4 [Interpolación Polinómica de Lagrange](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_lagrange.py) . . . . . . . . . . . . . . . . . . . . 52
 
 2.5 [Interpolación de Neville](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_neville.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
 
