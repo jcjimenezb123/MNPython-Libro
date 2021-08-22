@@ -62,11 +62,11 @@
 
 3.4 [Método de Newton-Raphson](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphson.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97
 
-3.5 [Método de Newton-Raphson de optimize](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonOpt.py) . . . . . . . . . . . . . . . . . . . . . 99
+3.5 [Método de Newton-Raphson de optimize](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonOpt.py) . . . . . . . . . . . . . . . . . . 99
 
-3.6 [Método de Newton Modificado](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonM.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102
+3.6 [Método de Newton Modificado](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonM.py) . . . . . . . . . . . . . . . . . . . . . . . . . . .102
 
-3.7 [Método de Haley de optimize](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonOptM.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104
+3.7 [Método de Haley de optimize](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonOptM.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104
 
 3.8 [Método de la Secante](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/secante.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106
 
