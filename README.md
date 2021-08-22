@@ -6,41 +6,41 @@
 
 1.3 [Serie de MacLaurin de cos(x)](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_cos.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
 
-1.4 Serie de Taylor de ln(x) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+1.4 Serie de Taylor de ln(x) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
 
-1.5 Serie de MacLaurin de ex . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+1.5 Serie de MacLaurin de ex . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
 
-1.6 Serie de MacLaurin de eix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+1.6 Serie de MacLaurin de eix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  37
 
-2.1 Interpolación lineal vs Regresión Lineal . . . . . . . . . . . . . . . . . . . . . . . . . 39
+2.1 Interpolación lineal vs Regresión Lineal . . . . . . . . . . . . . . . . . . . . . . . . 39
 
-2.2 Interpolación lineal Carbonato de Sodio . . . . . . . . . . . . . . . . . . . . . . . . . 43
+2.2 Interpolación lineal Carbonato de Sodio . . . . . . . . . . . . . . . . . . . . . . . .  43
 
 2.3 Interpolación Polinómica de Newton . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
 
 2.4 Interpolación Polinómica de Lagrange . . . . . . . . . . . . . . . . . . . . . . . . . . 52
 
-2.5 Interpolación de Neville . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+2.5 Interpolación de Neville . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
 
-2.6 Interpolación de Spline Cúbico . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+2.6 Interpolación de Spline Cúbico . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
 
-2.7 Interpolación Nearest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+2.7 Interpolación Nearest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  63
 
-2.8 Interpolación con 6 métodos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+2.8 Interpolación con 6 métodos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  64
 
-2.9 Interpolación en 2 dimensiones . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+2.9 Interpolación en 2 dimensiones . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
 
-2.10 Regresión Lineal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+2.10 Regresión Lineal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .69
 
-2.11 Regresión Cuadrática . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+2.11 Regresión Cuadrática . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .70
 
-2.12 Regresión Cúbica . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
+2.12 Regresión Cúbica . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .72
 
-2.13 Regresión Exponencial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+2.13 Regresión Exponencial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
 
-2.14 Regresión Potencial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+2.14 Regresión Potencial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
 
-2.15 Regresión Recíproca o Hiperbólica . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+2.15 Regresión Recíproca o Hiperbólica . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
 
 2.16 Regresión Lineal Múltiple . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
 
