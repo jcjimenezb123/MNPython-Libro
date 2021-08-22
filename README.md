@@ -50,11 +50,11 @@
 
 2.16 [Regresión Lineal Múltiple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_multiplelin.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
 
-2.17 [Regresión No Lineal Múltiple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_multiple.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+2.17 [Regresión No Lineal Múltiple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_multiple.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
 
 ## :point_right: Ecuaciones no lineales
 
-3.1 [Método Gráfico](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/grafica_raiz.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+3.1 [Método Gráfico](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/grafica_raiz.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .83
 
 3.2 [Método de Bisección](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/biseccion.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
 
