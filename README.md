@@ -92,19 +92,19 @@
 
 4.4 [Método de Sistemas Rectangulares](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/sisrectangular.py) . . . . . . . . . . . . . . . . . . . . . . . . 140
 
-4.5 [Método de Descomposición LU](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/descomposicionlu.py) . . . . . . . . . . . . . . . . . . . . . . . . . .143
+4.5 [Método de Descomposición LU](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/descomposicionlu.py) . . . . . . . . . . . . . . . . . . . . . . . . . . .143
 
-4.6 [Método de Inversa-Multiplicación](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/invmult.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 145
+4.6 [Método de Inversa-Multiplicación](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/invmult.py) . . . . . . . . . . . . . . . . . . . . . . . . . 145
 
-4.7 [Método de Inversa-Multiplicación Múltiple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/invmultm.py) . . . . . . . . . . . . . . . . . . . . 149
+4.7 [Método de Inversa-Multiplicación Múltiple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/invmultm.py) . . . . . . . . . . . . . . . . . 149
 
-4.8 [Regla de Cramer](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/cramer.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
+4.8 [Regla de Cramer](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/cramer.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .150
 
-4.9 [Método de Jacobi](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/jacobi.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 154
+4.9 [Método de Jacobi](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/jacobi.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 154
 
-4.10 [Método de Gauss-Seidel](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/gauss-seidel.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 156
+4.10 [Método de Gauss-Seidel](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/gauss-seidel.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 156
 
-4.11 [Método de Gauss-Seidel sustituciones sucesivas](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/gauss-seidel2.py) . . . . . . . . . . . . . . . . . . . . . 158
+4.11 [Método de Gauss-Seidel sustituciones sucesivas](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/gauss-seidel2.py) . . . . . . . . . . . . . . . 158
 
 4.12 [Método de SOR](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/sor.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 159
 
