@@ -12,6 +12,8 @@
 
 1.6 Serie de MacLaurin de eix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  37
 
+##Interpolacion
+
 2.1 Interpolación lineal vs Regresión Lineal . . . . . . . . . . . . . . . . . . . . . . . . 39
 
 2.2 Interpolación lineal Carbonato de Sodio . . . . . . . . . . . . . . . . . . . . . . . .  43
