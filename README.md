@@ -36,11 +36,11 @@
 
 2.9 [Interpolación en 2 dimensiones](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp2d.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
 
-2.10 [Regresión Lineal](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_lineal.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .69
+2.10 [Regresión Lineal](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_lineal.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .69
 
-2.11 [Regresión Cuadrática](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_cuad.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .70
+2.11 [Regresión Cuadrática](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_cuad.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .70
 
-2.12 [Regresión Cúbica](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_cubi.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .72
+2.12 [Regresión Cúbica](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_cubi.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .72
 
 2.13 [Regresión Exponencial](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_exp.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
 
@@ -54,33 +54,33 @@
 
 ## :point_right: Ecuaciones no lineales
 
-3.1 Método Gráfico . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+3.1 [Método Gráfico](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/grafica_raiz.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
 
-3.2 Método de Bisección . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+3.2 [Método de Bisección](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/biseccion.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
 
-3.3 Método de la Regla Falsa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92
+3.3 [Método de la Regla Falsa](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reglaFalsa.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92
 
-3.4 Método de Newton-Raphson . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97
+3.4 [Método de Newton-Raphson](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphson.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97
 
-3.5 Método de Newton-Raphson de optimize . . . . . . . . . . . . . . . . . . . . . . . . 99
+3.5 [Método de Newton-Raphson de optimize](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonOpt.py) . . . . . . . . . . . . . . . . . . . . . . . . 99
 
-3.6 Método de Newton Modificado . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102
+3.6 [Método de Newton Modificado](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonM.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102
 
-3.7 Método de Haley de optimize . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104
+3.7 [Método de Haley de optimize](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonOptM.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104
 
-3.8 Método de la Secante . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106
+3.8 [Método de la Secante](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/secante.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106
 
-3.9 Método de Muller . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+3.9 [Método de Muller](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/muller.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
 
-3.10 Método del Punto Fijo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115
+3.10 [Método del Punto Fijo](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/puntoFijo.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115
 
-3.11 Método de Wegstein . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119
+3.11 [Método de Wegstein](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/wegstein.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119
 
-3.12 Método de Newton-Raphson Complejos . . . . . . . . . . . . . . . . . . . . . . . . . 121
+3.12 [Método de Newton-Raphson Complejos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonC.py) . . . . . . . . . . . . . . . . . . . . . . . . . 121
 
-3.13 Método de la Secante Complejos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 122
+3.13 [Método de la Secante Complejos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/secanteC.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 122
 
-3.14 Método de Muller Complejos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 124
+3.14 [Método de Muller Complejos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/mullerC.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 124
 
 ## :point_right: Sistemas de ecuaciones lineales
 
