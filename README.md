@@ -86,11 +86,11 @@
 
 4.1 [Método de eliminación de Gauss](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/elimgauss.py) . . . . . . . . . . . . . . . . . . . . . . . . . . 132
 
-4.2 [Método de eliminación de Gauss-Jordan](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/elimgaussjordan.py) . . . . . . . . . . . . . . . . . . . . 135
+4.2 [Método de eliminación de Gauss-Jordan](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/elimgaussjordan.py) . . . . . . . . . . . . . . . . . . . 135
 
-4.3 [Método de reducción escalonada](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/elimgaussjordanh.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137
+4.3 [Método de reducción escalonada](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/elimgaussjordanh.py) . . . . . . . . . . . . . . . . . . . . . . . . . 137
 
-4.4 [Método de Sistemas Rectangulares](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/sisrectangular.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+4.4 [Método de Sistemas Rectangulares](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/sisrectangular.py) . . . . . . . . . . . . . . . . . . . . . . . 140
 
 4.5 [Método de Descomposición LU](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/descomposicionlu.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 143
 
