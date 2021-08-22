@@ -110,43 +110,43 @@
 
 ## :point_right: Sistemas de ecuaciones no lineales
 
-5.1 Método del Punto Fijo Multivariable . . . . . . . . . . . . . . . . . . . . . . . . . . . 164
+5.1 [Método del Punto Fijo Multivariable](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/pfmulti.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . 164
 
-5.2 Método de Gauss-Seidel Multivariable . . . . . . . . . . . . . . . . . . . . . . . . . . 166
+5.2 [Método de Gauss-Seidel Multivariable](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/gsmulti.py) . . . . . . . . . . . . . . . . . . . . . . . . . . 166
 
-5.3 Método de Newton-Raphson Multivariable . . . . . . . . . . . . . . . . . . . . . . . . 169
+5.3 [Método de Newton-Raphson Multivariable](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonMV.py) . . . . . . . . . . . . . . . . . . . . . . . . 169
 
 ## :point_right: Diferenciación numérica
 
-6.1 Diferenciación Numérica . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+6.1 [Diferenciación Numérica](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/diferenciacion.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
 
 ## :point_right: Integrales
 
-7.1 Método de los rectángulos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 181
+7.1 [Método de los rectángulos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_rectangulos.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 181
 
-7.2 Método de los Trapecios . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
+7.2 [Método de los Trapecios](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_trapecios.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
 
-7.3 Método de Simpson 13. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 188
+7.3 [Método de Simpson 1/3](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_simpson13.py). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 188
 
-7.4 Método de Simpson 38. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 193
+7.4 [Método de Simpson 3/8](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_simpson38.py). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 193
 
-7.5 Método de Romberg . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 198
+7.5 [Método de Romberg](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_romberg.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 198
 
-7.6 Cuadratura de Gauss-Legendre de 2 puntos . . . . . . . . . . . . . . . . . . . . . . . 205
+7.6 [Cuadratura de Gauss-Legendre de 2 puntos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadratura2.py) . . . . . . . . . . . . . . . . . . . . . . . 205
 
-7.7 Cuadratura de Gauss-Legendre con n puntos . . . . . . . . . . . . . . . . . . . . . . . 207
+7.7 [Cuadratura de Gauss-Legendre con n puntos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadraturaN.py) . . . . . . . . . . . . . . . . . . . . . . . 207
 
-7.8 Integral doble . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 209
+7.8 [Integral doble](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadratura2d.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 209
 
-7.9 Integral triple . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
+7.9 [Integral triple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadratura3d.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
 
-7.10 Integral con intervalos desigualmente espaciados . . . . . . . . . . . . . . . . . . . . 212
+7.10 [Integral con intervalos desigualmente espaciados](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_puntos.py) . . . . . . . . . . . . . . . . . . . . 212
 
-7.11 Integral impropia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 213
+7.11 [Integral impropia](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_impropias.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 213
 
-7.12 Integral impropia p . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 214
+7.12 [Integral impropia pi](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_impropias2.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 214
 
-7.13 Integral impropia 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215
+7.13 [Integral impropia 3](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_impropias3.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215
 
 ## :point_right: Ecuaciones diferenciales
 
