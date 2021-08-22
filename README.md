@@ -4,7 +4,7 @@
 
 1.2 [Error de redondeo en Python](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/erroredondeo.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
 
-1.3 Serie de MacLaurin de cos(x) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+1.3 [Serie de MacLaurin de cos(x)](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_cos.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
 
 1.4 Serie de Taylor de ln(x) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
 
