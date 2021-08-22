@@ -2,7 +2,7 @@
 
 # Indice de programas :thumbsup:
 ---
-## Conceptos preliminares
+## :point_right: Conceptos preliminares
 
 1.1 [Convertir del sistema decimal a otros sistemas](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/decimal2otros.py) . . . . . . . . . . . . . . . . . . . . . . 23
 
@@ -16,7 +16,7 @@
 
 1.6 Serie de MacLaurin de eix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  37
 
-## Ajuste de curvas
+## :point_right: Ajuste de curvas
 
 2.1 Interpolación lineal vs Regresión Lineal . . . . . . . . . . . . . . . . . . . . . . . . 39
 
@@ -52,7 +52,7 @@
 
 2.17 Regresión No Lineal Múltiple . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
 
-## Ecuaciones no lineales
+## :point_right: Ecuaciones no lineales
 
 3.1 Método Gráfico . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
 
