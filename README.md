@@ -56,11 +56,11 @@
 
 3.1 [Método Gráfico](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/grafica_raiz.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .83
 
-3.2 [Método de Bisección](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/biseccion.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+3.2 [Método de Bisección](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/biseccion.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
 
-3.3 [Método de la Regla Falsa](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reglaFalsa.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92
+3.3 [Método de la Regla Falsa](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reglaFalsa.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92
 
-3.4 [Método de Newton-Raphson](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphson.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97
+3.4 [Método de Newton-Raphson](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphson.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97
 
 3.5 [Método de Newton-Raphson de optimize](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonOpt.py) . . . . . . . . . . . . . . . . . . . . . . . . 99
 
