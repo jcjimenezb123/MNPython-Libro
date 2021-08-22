@@ -82,6 +82,8 @@
 
 3.14 Método de Muller Complejos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 124
 
+## :point_right: Sistemas de ecuaciones lineales
+
 4.1 Método de eliminación de Gauss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 132
 
 4.2 Método de eliminación de Gauss-Jordan . . . . . . . . . . . . . . . . . . . . . . . . . 135
@@ -106,13 +108,19 @@
 
 4.12 Método de SOR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 159
 
+## :point_right: Sistemas de ecuaciones no lineales
+
 5.1 Método del Punto Fijo Multivariable . . . . . . . . . . . . . . . . . . . . . . . . . . . 164
 
 5.2 Método de Gauss-Seidel Multivariable . . . . . . . . . . . . . . . . . . . . . . . . . . 166
 
 5.3 Método de Newton-Raphson Multivariable . . . . . . . . . . . . . . . . . . . . . . . . 169
 
+## :point_right: Diferenciación numérica
+
 6.1 Diferenciación Numérica . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+
+## :point_right: Integrales
 
 7.1 Método de los rectángulos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 181
 
@@ -140,6 +148,8 @@
 
 7.13 Integral impropia 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215
 
+## :point_right: Ecuaciones diferenciales
+
 8.1 Euler con pasos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 221
 
 8.2 Euler Modificado con pasos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 223
@@ -157,6 +167,8 @@
 8.8 Problema de Valores en la Frontera: Tiro 3 . . . . . . . . . . . . . . . . . . . . . . . . 239
 
 8.9 Problema de Valores en la Frontera: Diferencias Finitas . . . . . . . . . . . . . . . . . 243
+
+## :point_right: Ecuaciones diferenciales parciales
 
 9.1 Solución de Laplace con condiciones Dirichlet . . . . . . . . . . . . . . . . . . . . . . 254
 
