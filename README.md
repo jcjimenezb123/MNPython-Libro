@@ -10,7 +10,7 @@
 
 1.3 [Serie de MacLaurin de cos(x)](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_cos.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
 
-1.4 [Serie de Taylor de ln(x)](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_ln.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+1.4 [Serie de Taylor de ln(x)](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_ln.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
 
 1.5 [Serie de MacLaurin de ex](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_exp.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
 
