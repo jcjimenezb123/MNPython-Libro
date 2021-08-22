@@ -1,6 +1,6 @@
 ![Portada](/MNPython_portada.PNG)
 
-# Indice de programas
+# Indice de programas :thumbsup:
 ---
 ## Conceptos preliminares
 
