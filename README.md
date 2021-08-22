@@ -24,11 +24,11 @@
 
 2.3 [Interpolación Polinómica de Newton](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_newton.py) . . . . . . . . . . . . . . . . . . . . . . . 47
 
-2.4 [Interpolación Polinómica de Lagrange](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_lagrange.py) . . . . . . . . . . . . . . . . . . . . 52
+2.4 [Interpolación Polinómica de Lagrange](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_lagrange.py) . . . . . . . . . . . . . . . . . . . . . . 52
 
-2.5 [Interpolación de Neville](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_neville.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+2.5 [Interpolación de Neville](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_neville.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
 
-2.6 [Interpolación de Spline Cúbico](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_spline3.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+2.6 [Interpolación de Spline Cúbico](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_spline3.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
 
 2.7 [Interpolación Nearest](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_nearest.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  63
 
