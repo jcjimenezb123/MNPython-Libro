@@ -132,13 +132,13 @@
 
 7.5 [Método de Romberg](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_romberg.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 198
 
-7.6 [Cuadratura de Gauss-Legendre de 2 puntos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadratura2.py) . . . . . . . . . . . . . . . . . . . . . . . 205
+7.6 [Cuadratura de Gauss-Legendre de 2 puntos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadratura2.py) . . . . . . . . . . . . . . . . 205
 
-7.7 [Cuadratura de Gauss-Legendre con n puntos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadraturaN.py) . . . . . . . . . . . . . . . . 207
+7.7 [Cuadratura de Gauss-Legendre con n puntos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadraturaN.py) . . . . . . . . . . . . . .207
 
-7.8 [Integral doble](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadratura2d.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 209
+7.8 [Integral doble](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadratura2d.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .209
 
-7.9 [Integral triple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadratura3d.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
+7.9 [Integral triple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadratura3d.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .210
 
 7.10 [Integral con intervalos desigualmente espaciados](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_puntos.py) . . . . . . . . . . . . . . . . . . . . 212
 
