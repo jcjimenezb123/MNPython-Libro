@@ -106,15 +106,15 @@
 
 4.11 [Método de Gauss-Seidel sustituciones sucesivas](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/gauss-seidel2.py) . . . . . . . . . . . 158
 
-4.12 [Método de SOR](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/sor.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 159
+4.12 [Método de SOR](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/sor.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 159
 
 ## :point_right: Sistemas de ecuaciones no lineales
 
-5.1 [Método del Punto Fijo Multivariable](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/pfmulti.py) . . . . . . . . . . . . . . . . . . . . . . . . 164
+5.1 [Método del Punto Fijo Multivariable](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/pfmulti.py) . . . . . . . . . . . . . . . . . . . . . . 164
 
-5.2 [Método de Gauss-Seidel Multivariable](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/gsmulti.py) . . . . . . . . . . . . . . . . . . . . . . 166
+5.2 [Método de Gauss-Seidel Multivariable](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/gsmulti.py) . . . . . . . . . . . . . . . . . . . . 166
 
-5.3 [Método de Newton-Raphson Multivariable](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonMV.py) . . . . . . . . . . . . . . . . . . . 169
+5.3 [Método de Newton-Raphson Multivariable](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonMV.py) . . . . . . . . . . . . . . . . 169
 
 ## :point_right: Diferenciación numérica
 
