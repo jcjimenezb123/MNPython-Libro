@@ -70,13 +70,13 @@
 
 3.8 [Método de la Secante](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/secante.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106
 
-3.9 [Método de Muller](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/muller.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+3.9 [Método de Muller](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/muller.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
 
 3.10 [Método del Punto Fijo](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/puntoFijo.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115
 
 3.11 [Método de Wegstein](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/wegstein.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119
 
-3.12 [Método de Newton-Raphson Complejos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonC.py) . . . . . . . . . . . . . . . . . . . . . . . . . 121
+3.12 [Método de Newton-Raphson Complejos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonC.py) . . . . . . . . . . . . . . . . . . . . . .121
 
 3.13 [Método de la Secante Complejos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/secanteC.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 122
 
