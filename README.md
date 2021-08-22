@@ -90,9 +90,9 @@
 
 4.3 [Método de reducción escalonada](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/elimgaussjordanh.py) . . . . . . . . . . . . . . . . . . . . . . . . . 137
 
-4.4 [Método de Sistemas Rectangulares](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/sisrectangular.py) . . . . . . . . . . . . . . . . . . . . . . . 140
+4.4 [Método de Sistemas Rectangulares](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/sisrectangular.py) . . . . . . . . . . . . . . . . . . . . . . . . 140
 
-4.5 [Método de Descomposición LU](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/descomposicionlu.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 143
+4.5 [Método de Descomposición LU](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/descomposicionlu.py) . . . . . . . . . . . . . . . . . . . . . . . . . . 143
 
 4.6 [Método de Inversa-Multiplicación](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/invmult.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 145
 
