@@ -138,9 +138,9 @@
 
 7.8 [Integral doble](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadratura2d.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .209
 
-7.9 [Integral triple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadratura3d.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .210
+7.9 [Integral triple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadratura3d.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
 
-7.10 [Integral con intervalos desigualmente espaciados](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_puntos.py) . . . . . . . . . . 212
+7.10 [Integral con intervalos desigualmente espaciados](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_puntos.py) . . . . . . . . . 212
 
 7.11 [Integral impropia](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_impropias.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 213
 
@@ -150,7 +150,7 @@
 
 ## :point_right: Ecuaciones diferenciales
 
-8.1 [Euler con pasos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_euler.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 221
+8.1 [Euler con pasos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_euler.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 221
 
 8.2 [Euler Modificado con pasos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_euler_modificado.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 223
 
