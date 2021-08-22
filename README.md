@@ -28,9 +28,9 @@
 
 2.5 [Interpolación de Neville](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_neville.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
 
-2.6 [Interpolación de Spline Cúbico](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_spline3.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+2.6 [Interpolación de Spline Cúbico](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_spline3.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
 
-2.7 [Interpolación Nearest](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_nearest.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+2.7 [Interpolación Nearest](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_nearest.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
 
 2.8 [Interpolación con 6 métodos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_5metodos.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
 
