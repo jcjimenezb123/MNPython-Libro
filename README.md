@@ -36,11 +36,11 @@
 
 2.9 [Interpolación en 2 dimensiones](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp2d.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
 
-2.10 [Regresión Lineal](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_lineal.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .69
+2.10 [Regresión Lineal](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_lineal.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .69
 
-2.11 [Regresión Cuadrática](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_cuad.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .70
+2.11 [Regresión Cuadrática](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_cuad.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
 
-2.12 [Regresión Cúbica](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_cubi.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .72
+2.12 [Regresión Cúbica](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_cubi.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
 
 2.13 [Regresión Exponencial](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_exp.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
 
