@@ -2,13 +2,20 @@
 ---
 1.1 [Convertir del sistema decimal a otros sistemas](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/decimal2otros.py) . . . . . . . . . . . . . . . . . . . . . . 23
 
-1.2 [Error de redondeo en Python]() . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+1.2 [Error de redondeo en Python](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/erroredondeo.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+
 1.3 Serie de MacLaurin de cos(x) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+
 1.4 Serie de Taylor de ln(x) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+
 1.5 Serie de MacLaurin de ex . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+
 1.6 Serie de MacLaurin de eix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+
 2.1 Interpolación lineal vs Regresión Lineal . . . . . . . . . . . . . . . . . . . . . . . . . 39
+
 2.2 Interpolación lineal Carbonato de Sodio . . . . . . . . . . . . . . . . . . . . . . . . . 43
+
 2.3 Interpolación Polinómica de Newton . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
 2.4 Interpolación Polinómica de Lagrange . . . . . . . . . . . . . . . . . . . . . . . . . . 52
 2.5 Interpolación de Neville . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
