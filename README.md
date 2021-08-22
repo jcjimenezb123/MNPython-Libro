@@ -1,6 +1,7 @@
 # Indice de programas
 ---
-1.1 [Convertir del sistema decimal a otros sistemas]() . . . . . . . . . . . . . . . . . . . . . . 23
+1.1 [Convertir del sistema decimal a otros sistemas](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/decimal2otros.py) . . . . . . . . . . . . . . . . . . . . . . 23
+
 1.2 Error de redondeo en Python . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
 1.3 Serie de MacLaurin de cos(x) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
 1.4 Serie de Taylor de ln(x) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
