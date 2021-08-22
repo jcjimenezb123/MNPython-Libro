@@ -84,29 +84,29 @@
 
 ## :point_right: Sistemas de ecuaciones lineales
 
-4.1 Método de eliminación de Gauss . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 132
+4.1 [Método de eliminación de Gauss](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/elimgauss.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 132
 
-4.2 Método de eliminación de Gauss-Jordan . . . . . . . . . . . . . . . . . . . . . . . . . 135
+4.2 [Método de eliminación de Gauss-Jordan](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/elimgaussjordan.py) . . . . . . . . . . . . . . . . . . . . . . . . . 135
 
-4.3 Método de reducción escalonada . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137
+4.3 [Método de reducción escalonada](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/elimgaussjordanh.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137
 
-4.4 Método de Sistemas Rectangulares . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+4.4 [Método de Sistemas Rectangulares](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/sisrectangular.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
 
-4.5 Método de Descomposición LU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 143
+4.5 [Método de Descomposición LU](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/descomposicionlu.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 143
 
-4.6 Método de Inversa-Multiplicación . . . . . . . . . . . . . . . . . . . . . . . . . . . . 145
+4.6 [Método de Inversa-Multiplicación](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/invmult.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 145
 
-4.7 Método de Inversa-Multiplicación Múltiple . . . . . . . . . . . . . . . . . . . . . . . 149
+4.7 [Método de Inversa-Multiplicación Múltiple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/invmultm.py) . . . . . . . . . . . . . . . . . . . . . . . 149
 
-4.8 Regla de Cramer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
+4.8 [Regla de Cramer](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/cramer.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
 
-4.9 Método de Jacobi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 154
+4.9 [Método de Jacobi](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/jacobi.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 154
 
-4.10 Método de Gauss-Seidel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 156
+4.10 [Método de Gauss-Seidel](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/gauss-seidel.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 156
 
-4.11 Método de Gauss-Seidel sustituciones sucesivas . . . . . . . . . . . . . . . . . . . . . 158
+4.11 [Método de Gauss-Seidel sustituciones sucesivas](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/gauss-seidel2.py) . . . . . . . . . . . . . . . . . . . . . 158
 
-4.12 Método de SOR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 159
+4.12 [Método de SOR](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/sor.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 159
 
 ## :point_right: Sistemas de ecuaciones no lineales
 
