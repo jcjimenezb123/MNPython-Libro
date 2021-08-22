@@ -46,11 +46,11 @@
 
 2.14 [Regresión Potencial](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_pot.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
 
-2.15 [Regresión Recíproca o Hiperbólica](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_antoine.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+2.15 [Regresión Recíproca o Hiperbólica](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_antoine.py) . . . . . . . . . . . . . . . . . . . . . . . . 77
 
 2.16 [Regresión Lineal Múltiple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_multiplelin.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
 
-2.17 [Regresión No Lineal Múltiple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_multiple.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+2.17 [Regresión No Lineal Múltiple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_multiple.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
 
 ## :point_right: Ecuaciones no lineales
 
