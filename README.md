@@ -32,11 +32,11 @@
 
 2.7 [Interpolación Nearest](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_nearest.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
 
-2.8 [Interpolación con 6 métodos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_5metodos.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+2.8 [Interpolación con 6 métodos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_5metodos.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
 
-2.9 [Interpolación en 2 dimensiones](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp2d.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+2.9 [Interpolación en 2 dimensiones](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp2d.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
 
-2.10 [Regresión Lineal](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_lineal.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .69
+2.10 [Regresión Lineal](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_lineal.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .69
 
 2.11 [Regresión Cuadrática](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_cuad.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .70
 
