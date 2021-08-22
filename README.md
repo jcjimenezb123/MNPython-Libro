@@ -172,8 +172,8 @@
 
 9.1 [Solución de Laplace con condiciones Dirichlet](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_Laplace_dirichlet.py) . . . . . . . . . . . . . . 254
 
-9.2 [Solución de Laplace con condiciones Neumann - Dirichlet](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_Laplace_newmann_dirichlet.py) . . . . 257
+9.2 [Solución de Laplace con condiciones Neumann - Dirichlet](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_Laplace_newmann_dirichlet.py) . . . 257
 
-9.3 [Temperatura de la barra en el tiempo](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_barra.py) . . . . . . . . . . . . . . . . . . . 265
+9.3 [Temperatura de la barra en el tiempo](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_barra.py) . . . . . . . . . . . . . . . . . . . . . 265
 
-9.4 [Temperatura de la barra en el tiempo](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_barra2.py) . . . . . . . . . . . . . . . . . . . . 268
+9.4 [Temperatura de la barra en el tiempo](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_barra2.py) . . . . . . . . . . . . . . . . . . . . . . 268
