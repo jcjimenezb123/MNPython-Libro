@@ -12,7 +12,7 @@
 
 1.6 Serie de MacLaurin de eix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  37
 
-##Interpolacion
+## Ajuste de curvas
 
 2.1 Interpolación lineal vs Regresión Lineal . . . . . . . . . . . . . . . . . . . . . . . . 39
 
@@ -47,6 +47,8 @@
 2.16 Regresión Lineal Múltiple . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
 
 2.17 Regresión No Lineal Múltiple . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+
+## Ecuaciones no lineales
 
 3.1 Método Gráfico . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
 
