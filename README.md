@@ -84,9 +84,9 @@
 
 ## :point_right: Sistemas de ecuaciones lineales
 
-4.1 [Método de eliminación de Gauss](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/elimgauss.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 132
+4.1 [Método de eliminación de Gauss](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/elimgauss.py) . . . . . . . . . . . . . . . . . . . . . . . . . . 132
 
-4.2 [Método de eliminación de Gauss-Jordan](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/elimgaussjordan.py) . . . . . . . . . . . . . . . . . . . . . . . . . 135
+4.2 [Método de eliminación de Gauss-Jordan](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/elimgaussjordan.py) . . . . . . . . . . . . . . . . . . . . 135
 
 4.3 [Método de reducción escalonada](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/elimgaussjordanh.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137
 
