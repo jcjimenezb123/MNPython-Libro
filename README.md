@@ -158,15 +158,15 @@
 
 8.4 [Método de Runge-Kutta de 4to orden](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_rk4.py) . . . . . . . . . . . . . . . . . . . . . 230
 
-8.5 [Sistema de Ecuaciones Diferenciales de Primer Orden](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_sistema.py) . . . . . . . . . . 233
+8.5 [Sistema de Ecuaciones Diferenciales de Primer Orden](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_sistema.py) . . . . . . . 233
 
-8.6 [Problema de Valores en la Frontera: Tiro 1](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_sistema10.py) . . . . . . . . . . . . . . . . . . . 237
+8.6 [Problema de Valores en la Frontera: Tiro 1](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_sistema10.py) . . . . . . . . . . . . . . . . . 237
 
-8.7 [Problema de Valores en la Frontera: Tiro 2](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_sistema20.py) . . . . . . . . . . . . . . . . . . . 238
+8.7 [Problema de Valores en la Frontera: Tiro 2](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_sistema20.py) . . . . . . . . . . . . . . . . . 238
 
-8.8 [Problema de Valores en la Frontera: Tiro 3](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_sistema11.py) . . . . . . . . . . . . . . . . . . . 239
+8.8 [Problema de Valores en la Frontera: Tiro 3](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_sistema11.py) . . . . . . . . . . . . . . . . . 239
 
-8.9 [Problema de Valores en la Frontera: Diferencias Finitas](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_diffin.py) . . . . . . . . 243
+8.9 [Problema de Valores en la Frontera: Diferencias Finitas](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_diffin.py) . . . . . . 243
 
 ## :point_right: Ecuaciones diferenciales parciales
 
