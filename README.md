@@ -92,11 +92,11 @@
 
 4.4 [Método de Sistemas Rectangulares](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/sisrectangular.py) . . . . . . . . . . . . . . . . . . . . . . . . 140
 
-4.5 [Método de Descomposición LU](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/descomposicionlu.py) . . . . . . . . . . . . . . . . . . . . . . . . . . 143
+4.5 [Método de Descomposición LU](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/descomposicionlu.py) . . . . . . . . . . . . . . . . . . . . . . . . . .143
 
-4.6 [Método de Inversa-Multiplicación](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/invmult.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 145
+4.6 [Método de Inversa-Multiplicación](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/invmult.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 145
 
-4.7 [Método de Inversa-Multiplicación Múltiple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/invmultm.py) . . . . . . . . . . . . . . . . . . . . . . . 149
+4.7 [Método de Inversa-Multiplicación Múltiple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/invmultm.py) . . . . . . . . . . . . . . . . . . . . 149
 
 4.8 [Regla de Cramer](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/cramer.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
 
