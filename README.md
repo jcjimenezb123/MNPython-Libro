@@ -128,13 +128,13 @@
 
 7.3 [Método de Simpson 1/3](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_simpson13.py). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .188
 
-7.4 [Método de Simpson 3/8](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_simpson38.py). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 193
+7.4 [Método de Simpson 3/8](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_simpson38.py). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .193
 
-7.5 [Método de Romberg](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_romberg.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 198
+7.5 [Método de Romberg](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_romberg.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 198
 
 7.6 [Cuadratura de Gauss-Legendre de 2 puntos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadratura2.py) . . . . . . . . . . . . . . . . . . . . . . . 205
 
-7.7 [Cuadratura de Gauss-Legendre con n puntos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadraturaN.py) . . . . . . . . . . . . . . . . . . . . . . . 207
+7.7 [Cuadratura de Gauss-Legendre con n puntos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadraturaN.py) . . . . . . . . . . . . . . . . 207
 
 7.8 [Integral doble](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadratura2d.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 209
 
