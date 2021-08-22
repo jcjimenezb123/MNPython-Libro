@@ -76,11 +76,11 @@
 
 3.11 [Método de Wegstein](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/wegstein.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119
 
-3.12 [Método de Newton-Raphson Complejos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonC.py) . . . . . . . . . . . . . . . . . . . . . .121
+3.12 [Método de Newton-Raphson Complejos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonC.py) . . . . . . . . . . . . . . . . . . 121
 
-3.13 [Método de la Secante Complejos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/secanteC.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 122
+3.13 [Método de la Secante Complejos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/secanteC.py) . . . . . . . . . . . . . . . . . . . . . . . . . 122
 
-3.14 [Método de Muller Complejos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/mullerC.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 124
+3.14 [Método de Muller Complejos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/mullerC.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 124
 
 ## :point_right: Sistemas de ecuaciones lineales
 
