@@ -122,11 +122,11 @@
 
 ## :point_right: Integrales
 
-7.1 [Método de los rectángulos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_rectangulos.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 181
+7.1 [Método de los rectángulos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_rectangulos.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .181
 
 7.2 [Método de los Trapecios](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_trapecios.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
 
-7.3 [Método de Simpson 1/3](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_simpson13.py). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 188
+7.3 [Método de Simpson 1/3](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_simpson13.py). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .188
 
 7.4 [Método de Simpson 3/8](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_simpson38.py). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 193
 
