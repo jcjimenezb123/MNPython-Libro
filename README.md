@@ -8,7 +8,7 @@
 
 1.2 [Error de redondeo en Python](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/erroredondeo.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  27
 
-1.3 [Serie de MacLaurin de cos(x)](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_cos.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+1.3 [Serie de MacLaurin de cos(x)](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_cos.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  32
 
 1.4 [Serie de Taylor de ln(x)](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_ln.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
 
@@ -18,23 +18,23 @@
 
 ## :point_right: Ajuste de curvas
 
-2.1 Interpolación lineal vs Regresión Lineal . . . . . . . . . . . . . . . . . . . . . . . . 39
+2.1 [Interpolación lineal vs Regresión Lineal](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_regres.py) . . . . . . . . . . . . . . . . . . . . . . . . 39
 
-2.2 Interpolación lineal Carbonato de Sodio . . . . . . . . . . . . . . . . . . . . . . . .  43
+2.2 [Interpolación lineal Carbonato de Sodio](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_lineal.py) . . . . . . . . . . . . . . . . . . . . . . . .  43
 
-2.3 Interpolación Polinómica de Newton . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+2.3 [Interpolación Polinómica de Newton](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_newton.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
 
-2.4 Interpolación Polinómica de Lagrange . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+2.4 [Interpolación Polinómica de Lagrange](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_lagrange.py) . . . . . . . . . . . . . . . . . . . . . . . . . . 52
 
-2.5 Interpolación de Neville . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+2.5 [Interpolación de Neville](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_neville.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
 
-2.6 Interpolación de Spline Cúbico . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+2.6 [Interpolación de Spline Cúbico](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_spline3.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
 
-2.7 Interpolación Nearest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  63
+2.7 [Interpolación Nearest](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_nearest.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  63
 
-2.8 Interpolación con 6 métodos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  64
+2.8 [Interpolación con 6 métodos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_5metodos.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  64
 
-2.9 Interpolación en 2 dimensiones . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+2.9 [Interpolación en 2 dimensiones](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp2d.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
 
 2.10 Regresión Lineal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .69
 
