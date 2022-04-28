@@ -4,83 +4,95 @@
 ---
 ## :point_right: Conceptos preliminares
 
-1.1 [Convertir del sistema decimal a otros sistemas](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/decimal2otros.py) . . . . . . . . . . . . . . . 23
+1.1 [Convertir del sistema decimal a otros sistemas](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/decimal2otros.py) . . . . . . . . . . . . . . . 7
 
-1.2 [Error de redondeo en Python](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/erroredondeo.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  27
+1.2 [Error de redondeo en Python](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/erroredondeo.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
 
-1.3 [Serie de MacLaurin de cos(x)](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_cos.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+1.3 [Serie de MacLaurin de cos(x)](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_cos.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
 
-1.4 [Serie de Taylor de ln(x)](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_ln.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+1.4 [Serie de Taylor de ln(x)](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_ln.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
 
-1.5 [Serie de MacLaurin de ex](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_exp.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+1.5 [Serie de MacLaurin de ex](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_exp.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
 
-1.6 [Serie de MacLaurin de eix](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_expix.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+1.6 [Serie de MacLaurin de eix](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/taylor_expix.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
 
 ## :point_right: Ajuste de curvas
 
-2.1 [Interpolación lineal vs Regresión Lineal](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_regres.py) . . . . . . . . . . . . . . . . . . . . . 39
+2.1 [Interpolación lineal vs Regresión Lineal](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_regres.py) . . . . . . . . . . . . . . . . . . . . . 25
 
-2.2 [Interpolación lineal Carbonato de Sodio](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_lineal.py) . . . . . . . . . . . . . . . . . . . . 43
+2.2 [Interpolación lineal carbonato de sodio](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_lineal.py) . . . . . . . . . . . . . . . . . . . . 29
 
-2.3 [Interpolación Polinómica de Newton](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_newton.py) . . . . . . . . . . . . . . . . . . . . . . . 47
+2.3 [Interpolación polinómica de Newton](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_newton.py) . . . . . . . . . . . . . . . . . . . . . . . 33
 
-2.4 [Interpolación Polinómica de Lagrange](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_lagrange.py) . . . . . . . . . . . . . . . . . . . . . . 52
+2.4 [Interpolación polinómica de Lagrange](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_lagrange.py) . . . . . . . . . . . . . . . . . . . . . . 39
 
-2.5 [Interpolación de Neville](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_neville.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+2.5 [Interpolación de Neville](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_neville.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
 
-2.6 [Interpolación de Spline Cúbico](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_spline3.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+2.6 [Interpolación de Spline cúbico](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_spline3.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
 
-2.7 [Interpolación Nearest](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_nearest.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+2.7 [Interpolación Nearest](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_nearest.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
 
-2.8 [Interpolación con 6 métodos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_5metodos.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+2.8 [Interpolación con 6 métodos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_5metodos.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
 
-2.9 [Interpolación en 2 dimensiones](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp2d.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+2.9 [Interpolación en 2 dimensiones](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp2d.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
 
-2.10 [Regresión Lineal](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_lineal.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .69
+2.10 [Regresión lineal](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_lineal.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .55
 
-2.11 [Regresión Cuadrática](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_cuad.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+2.11 [Regresión cuadrática](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_cuad.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
 
-2.12 [Regresión Cúbica](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_cubi.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
+2.12 [Regresión cúbica](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_cubi.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
 
-2.13 [Regresión Exponencial](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_exp.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+2.13 [Regresión exponencial](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_exp.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
 
-2.14 [Regresión Potencial](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_pot.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+2.14 [Regresión potencial](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_pot.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
 
-2.15 [Regresión Recíproca o Hiperbólica](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_antoine.py) . . . . . . . . . . . . . . . . . . . . . . . . 77
+2.15 [Regresión recíproca o hiperbólica](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_antoine.py) . . . . . . . . . . . . . . . . . . . . . . . . 64
 
-2.16 [Regresión Lineal Múltiple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_multiplelin.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
+2.16 [Regresión lineal múltiple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_multiplelin.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
 
-2.17 [Regresión No Lineal Múltiple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_multiple.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+2.17 [Regresión no lineal múltiple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reg_multiple.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68
 
 ## :point_right: Ecuaciones no lineales
 
-3.1 [Método Gráfico](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/grafica_raiz.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .83
+3.1 [Método Gráfico](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/grafica_raiz.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .71
 
-3.2 [Método de Bisección](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/biseccion.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+3.2 [Método de bisección](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/biseccion.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
 
-3.3 [Método de la Regla Falsa](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reglaFalsa.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92
+3.3 [Método de la regla falsa](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/reglaFalsa.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
 
-3.4 [Método de Newton-Raphson](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphson.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97
+3.4 [Método de Newton-Raphson](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphson.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
 
-3.5 [Método de Newton-Raphson de optimize](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonOpt.py) . . . . . . . . . . . . . . . . . . 99
+3.5 [Método de Newton-Raphson de optimize](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonOpt.py) . . . . . . . . . . . . . . . . . . 87
 
-3.6 [Método de Newton Modificado](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonM.py) . . . . . . . . . . . . . . . . . . . . . . . . . . .102
+3.6 [Método de Newton modificado](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonM.py) . . . . . . . . . . . . . . . . . . . . . . . . . . .90
 
-3.7 [Método de Haley de optimize](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonOptM.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104
+3.7 [Método de Haley de optimize](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonOptM.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92
 
-3.8 [Método de la Secante](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/secante.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106
+3.8 [Método de la secante](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/secante.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 95
 
-3.9 [Método de Muller](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/muller.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+3.9 [Método de Muller](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/muller.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101
 
-3.10 [Método del Punto Fijo](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/puntoFijo.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115
+3.10 [Método del punto fijo](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/puntoFijo.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104
 
-3.11 [Método de Wegstein](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/wegstein.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119
+3.11 [Método de Wegstein](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/wegstein.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 108
 
-3.12 [Método de Newton-Raphson Complejos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonC.py) . . . . . . . . . . . . . . . . . . 121
+3.12 [Raíces de un polinomio por el método de Newton-Raphson](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/polraices1.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 111
 
-3.13 [Método de la Secante Complejos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/secanteC.py) . . . . . . . . . . . . . . . . . . . . . . . . . 122
+3.13 [Raíces de un polinomio con la función roots](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/polraices2.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
 
-3.14 [Método de Muller Complejos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/mullerC.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 124
+3.14 [Método de Newton-Raphson complejos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonC.py) . . . . . . . . . . . . . . . . . . 113
+
+3.15 [Método de la secante complejos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/secanteC.py) . . . . . . . . . . . . . . . . . . . . . . . . . 114
+
+3.16 [Método de Muller complejos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/mullerC.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115
+
+3.17 [Método de Newton-Raphson devuelve iteraciones](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonr.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116
+
+3.18 [Método de Newton-Raphson, valor inicial vs iteraciones para f (x) = x2-2](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonrvalorinicial.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 117
+
+3.19 [Método de Newton-Raphson, valor inicial vs iteraciones para f (x) = x3-1](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonrvalorinicialx31.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118
+
+3.20 [Método de Newton-Raphson, fractal para f (x) = x3-1](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/fractalnr.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119
 
 ## :point_right: Sistemas de ecuaciones lineales
 
