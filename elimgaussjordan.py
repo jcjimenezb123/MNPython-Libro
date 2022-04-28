@@ -18,12 +18,11 @@ def gaussJordan(a,b):
     return x
 
 def main():
-    a=np.array([[55.8 , 20.4 , 17.1 , 18.5 , 19.2 ],\
-               [7.8  , 52.1 , 12.3 , 13.9 , 18.5 ],\
-               [16.4 , 11.5 , 46.1 , 11.5 , 21.3 ],\
-               [11.7 , 9.2  , 14.1 , 47.0 , 10.4 ],\
-               [8.3  , 6.8  , 10.4 , 9.1  , 30.6 ]])
-    b=np.array([2500,2000,2500,2000,1000])
+    a=np.array([[0.07, 0.18, 0.15, 0.24 ],\
+               [0.03, 0.25, 0.10, 0.65 ],\
+               [0.55, 0.41, 0.55, 0.09 ],\
+               [0.35, 0.16, 0.20, 0.02 ]])
+    b=np.array([0.15*100, 0.25*100, 0.4*100, 0.2*100])
     n,c=np.shape(a)
     r=np.linalg.matrix_rank(a)
     ab=np.c_[a,b]
@@ -32,15 +31,15 @@ def main():
     print('rango(A)={} rango(Ab)={} n={}'.format(r,ra,n))
     
     if (r==ra==n):
-        print('solucion unica')
+        print('solución única')
         x=gaussJordan(a,b)
         #x=np.linalg.solve(a, b)
         print(x)
     
     if (r==ra<n):
-        print('multiples soluciones')
+        print('múltiples soluciones')
     
     if (r<ra):
-        print('sin solucion')
+        print('sin solución')
         
 if __name__ == "__main__": main()
