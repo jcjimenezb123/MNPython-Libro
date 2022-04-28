@@ -62,11 +62,11 @@
 
 3.4 [Método de Newton-Raphson](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphson.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
 
-3.5 [Método de Newton-Raphson de optimize](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonOpt.py) . . . . . . . . . . . . . . . . . . 87
+3.5 [Método de Newton-Raphson de _optimize_](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonOpt.py) . . . . . . . . . . . . . . . . . . 87
 
 3.6 [Método de Newton modificado](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonM.py) . . . . . . . . . . . . . . . . . . . . . . . . . . .90
 
-3.7 [Método de Haley de optimize](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonOptM.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92
+3.7 [Método de Haley de _optimize_](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonOptM.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92
 
 3.8 [Método de la secante](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/secante.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 95
 
@@ -78,7 +78,7 @@
 
 3.12 [Raíces de un polinomio por el método de Newton-Raphson](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/polraices1.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 111
 
-3.13 [Raíces de un polinomio con la función roots](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/polraices2.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+3.13 [Raíces de un polinomio con la función _roots_](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/polraices2.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
 
 3.14 [Método de Newton-Raphson complejos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonC.py) . . . . . . . . . . . . . . . . . . 113
 
