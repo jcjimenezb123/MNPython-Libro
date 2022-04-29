@@ -18,7 +18,7 @@
 
 ## :point_right: Ajuste de curvas
 
-2.1 [Interpolación lineal vs Regresión Lineal](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_regres.py) . . . . . . . . . . . . . . . . . . . . . 25
+2.1 [Interpolación lineal vs regresión lineal](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_regres.py) . . . . . . . . . . . . . . . . . . . . . 25
 
 2.2 [Interpolación lineal carbonato de sodio](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_lineal.py) . . . . . . . . . . . . . . . . . . . . 29
 
@@ -30,7 +30,7 @@
 
 2.6 [Interpolación de Spline cúbico](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_spline3.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
 
-2.7 [Interpolación Nearest](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_nearest.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+2.7 [Interpolación _Nearest_](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_nearest.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
 
 2.8 [Interpolación con 6 métodos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/interp_5metodos.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
 
