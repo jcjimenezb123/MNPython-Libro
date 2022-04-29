@@ -190,4 +190,4 @@
 
 9.4 [Temperatura de la barra en el tiempo, método implícito](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_barra2.py) . . . . . .261
 
-9.4 [Temperatura de la barra en el tiempo, método implícito de Crank-Nicolson](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_cn.py) . . 265
+9.5 [Temperatura de la barra en el tiempo, método implícito de Crank-Nicolson](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_cn.py) . . 265
