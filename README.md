@@ -186,8 +186,8 @@
 
 9.2 [Solución de Laplace con condiciones Neumann - Dirichlet](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_Laplace_newmann_dirichlet.py) . . . 251
 
-9.3 [Temperatura de la barra en el tiempo, mátodo explícito](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_barra.py) . . . . . . . . . 258
+9.3 [Temperatura de la barra en el tiempo, mátodo explícito](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_barra.py) . . . . . . 258
 
-9.4 [Temperatura de la barra en el tiempo, método implícito](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_barra2.py) . . . . . . . . .261
+9.4 [Temperatura de la barra en el tiempo, método implícito](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_barra2.py) . . . . . .261
 
 9.4 [Temperatura de la barra en el tiempo, método implícito de Crank-Nicolson](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_cn.py) . . 265
