@@ -76,9 +76,9 @@
 
 3.11 [Método de Wegstein](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/wegstein.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 108
 
-3.12 [Raíces de un polinomio por el método de Newton-Raphson](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/polraices1.py) . . . 111
+3.12 [Raíces de un polinomio por el método de Newton-Raphson](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/polraices1.py) . . 111
 
-3.13 [Raíces de un polinomio con la función _roots_](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/polraices2.py) . . . . . . . . . . . . . . . . . . . 112
+3.13 [Raíces de un polinomio con la función _roots_](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/polraices2.py) . . . . . . . . . . . . . . . 112
 
 3.14 [Método de Newton-Raphson complejos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonC.py) . . . . . . . . . . . . . . . . . . 113
 
@@ -86,7 +86,7 @@
 
 3.16 [Método de Muller complejos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/mullerC.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115
 
-3.17 [Método de Newton-Raphson devuelve iteraciones](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonr.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116
+3.17 [Método de Newton-Raphson devuelve iteraciones](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonr.py) . . . . . . . . . . . . . . . 116
 
 3.18 [Método de Newton-Raphson, valor inicial vs iteraciones para f (x) = x2-2](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonrvalorinicial.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 117
 
