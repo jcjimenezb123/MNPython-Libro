@@ -88,11 +88,11 @@
 
 3.17 [Método de Newton-Raphson devuelve iteraciones](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonr.py) . . . . . . . . . 116
 
-3.18 [Método de Newton-Raphson, valor inicial vs iteraciones para f (x) = x2-2](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonrvalorinicial.py) . . . 117
+3.18 [Método de Newton-Raphson, valor inicial vs iteraciones para f (x) = x2-2](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonrvalorinicial.py) . . 117
 
 3.19 [Método de Newton-Raphson, valor inicial vs iteraciones para f (x) = x3-1](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonrvalorinicialx31.py) . . 118
 
-3.20 [Método de Newton-Raphson, fractal para f (x) = x3-1](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/fractalnr.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119
+3.20 [Método de Newton-Raphson, fractal para f (x) = x3-1](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/fractalnr.py) . . . . . . . . . . . . . . . . . . . . . 119
 
 ## :point_right: Sistemas de ecuaciones lineales
 
