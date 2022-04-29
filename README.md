@@ -92,100 +92,102 @@
 
 3.19 [Método de Newton-Raphson, valor inicial vs iteraciones para f (x) = x3-1](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonrvalorinicialx31.py) . . 118
 
-3.20 [Método de Newton-Raphson, fractal para f (x) = x3-1](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/fractalnr.py) . . . . . . . . . . . . . . . . . . . . . 119
+3.20 [Método de Newton-Raphson, fractal para f (x) = x3-1](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/fractalnr.py) . . . . . . . . . . . . . . . . . . . 119
 
 ## :point_right: Sistemas de ecuaciones lineales
 
-4.1 [Método de eliminación de Gauss](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/elimgauss.py) . . . . . . . . . . . . . . . . . . . . . . . . . . 132
+4.1 [Método de eliminación de Gauss](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/elimgauss.py) . . . . . . . . . . . . . . . . . . . . . . . . . . 128
 
-4.2 [Método de eliminación de Gauss-Jordan](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/elimgaussjordan.py) . . . . . . . . . . . . . . . . . . . 135
+4.2 [Método de eliminación de Gauss-Jordan](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/elimgaussjordan.py) . . . . . . . . . . . . . . . . . . . 131
 
-4.3 [Método de reducción escalonada](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/elimgaussjordanh.py) . . . . . . . . . . . . . . . . . . . . . . . . . 137
+4.3 [Método de reducción escalonada](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/elimgaussjordanh.py) . . . . . . . . . . . . . . . . . . . . . . . . . 133
 
-4.4 [Método de Sistemas Rectangulares](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/sisrectangular.py) . . . . . . . . . . . . . . . . . . . . . . . . 140
+4.4 [Método de sistemas rectangulares](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/sisrectangular.py) . . . . . . . . . . . . . . . . . . . . . . . . 135
 
-4.5 [Método de Descomposición LU](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/descomposicionlu.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . 143
+4.5 [Método de descomposición LU](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/descomposicionlu.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . 138
 
-4.6 [Método de Inversa-Multiplicación](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/invmult.py) . . . . . . . . . . . . . . . . . . . . . . . . . 145
+4.6 [Método de inversa-multiplicación](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/invmult.py) . . . . . . . . . . . . . . . . . . . . . . . . . 145
 
-4.7 [Método de Inversa-Multiplicación Múltiple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/invmultm.py) . . . . . . . . . . . . . . . . . 149
+4.7 [Método de inversa-multiplicación múltiple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/invmultm.py) . . . . . . . . . . . . . . . . . 141
 
-4.8 [Regla de Cramer](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/cramer.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
+4.8 [Regla de Cramer](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/cramer.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 146
 
-4.9 [Método de Jacobi](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/jacobi.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 154
+4.9 [Método de Jacobi](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/jacobi.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 149
 
-4.10 [Método de Gauss-Seidel](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/gauss-seidel.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 156
+4.10 [Método de Gauss-Seidel](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/gauss-seidel.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 152
 
-4.11 [Método de Gauss-Seidel sustituciones sucesivas](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/gauss-seidel2.py) . . . . . . . . . . . 158
+4.11 [Método de Gauss-Seidel sustituciones sucesivas](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/gauss-seidel2.py) . . . . . . . . . . . 153
 
-4.12 [Método de SOR](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/sor.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 159
+4.12 [Método de SOR](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/sor.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 155
 
 ## :point_right: Sistemas de ecuaciones no lineales
 
-5.1 [Método del Punto Fijo Multivariable](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/pfmulti.py) . . . . . . . . . . . . . . . . . . . . . . 164
+5.1 [Método del punto fijo multivariable](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/pfmulti.py) . . . . . . . . . . . . . . . . . . . . . . 158
 
-5.2 [Método de Gauss-Seidel Multivariable](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/gsmulti.py) . . . . . . . . . . . . . . . . . . . . 166
+5.2 [Método de Gauss-Seidel multivariable](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/gsmulti.py) . . . . . . . . . . . . . . . . . . . . 161
 
-5.3 [Método de Newton-Raphson Multivariable](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonMV.py) . . . . . . . . . . . . . . . . 169
+5.3 [Método de Newton-Raphson multivariable](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/newtonRaphsonMV.py) . . . . . . . . . . . . . . . . 163
 
 ## :point_right: Diferenciación numérica
 
-6.1 [Diferenciación Numérica](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/diferenciacion.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .177
+6.1 [Diferenciación numérica](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/diferenciacion.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .171
 
 ## :point_right: Integrales
 
-7.1 [Método de los rectángulos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_rectangulos.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .181
+7.1 [Método de los rectángulos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_rectangulos.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .175
 
-7.2 [Método de los Trapecios](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_trapecios.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
+7.2 [Método de los trapecios](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_trapecios.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 179
 
-7.3 [Método de Simpson 1/3](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_simpson13.py). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .188
+7.3 [Método de Simpson 1/3](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_simpson13.py). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .182
 
-7.4 [Método de Simpson 3/8](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_simpson38.py). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .193
+7.4 [Método de Simpson 3/8](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_simpson38.py). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .187
 
-7.5 [Método de Romberg](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_romberg.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 198
+7.5 [Método de Romberg](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_romberg.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 192
 
-7.6 [Cuadratura de Gauss-Legendre de 2 puntos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadratura2.py) . . . . . . . . . . . . . . . . 205
+7.6 [Cuadratura de Gauss-Legendre de 2 puntos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadratura2.py) . . . . . . . . . . . . . . . . 199
 
-7.7 [Cuadratura de Gauss-Legendre con n puntos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadraturaN.py) . . . . . . . . . . . . . . . 207
+7.7 [Cuadratura de Gauss-Legendre con n puntos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadraturaN.py) . . . . . . . . . . . . . . . 202
 
-7.8 [Integral doble](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadratura2d.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .209
+7.8 [Integral doble](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadratura2d.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .203
 
-7.9 [Integral triple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadratura3d.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
+7.9 [Integral triple](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_cuadratura3d.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 205
 
-7.10 [Integral con intervalos desigualmente espaciados](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_puntos.py) . . . . . . . . . 212
+7.10 [Integral con intervalos desigualmente espaciados](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_puntos.py) . . . . . . . . . 206
 
-7.11 [Integral impropia](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_impropias.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 213
+7.11 [Integral impropia](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_impropias.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 207
 
-7.12 [Integral impropia pi](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_impropias2.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 214
+7.12 [Integral impropia $\pi$](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_impropias2.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 208
 
-7.13 [Integral impropia 3](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_impropias3.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215
+7.13 [Integral impropia 3](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_impropias3.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
 
 ## :point_right: Ecuaciones diferenciales
 
-8.1 [Euler con pasos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_euler.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 221
+8.1 [Euler con pasos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_euler.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215
 
-8.2 [Euler Modificado con pasos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_euler_modificado.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 223
+8.2 [Euler modificado con pasos](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_euler_modificado.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 217
 
-8.3 [Euler Modificado mezclas](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_euler_modificado_mezclas.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 226
+8.3 [Euler modificado mezclas](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_euler_modificado_mezclas.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220
 
-8.4 [Método de Runge-Kutta de 4to orden](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_rk4.py) . . . . . . . . . . . . . . . . . . . . . 230
+8.4 [Método de Runge-Kutta de 4to orden](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_rk4.py) . . . . . . . . . . . . . . . . . . . . . 224
 
-8.5 [Sistema de Ecuaciones Diferenciales de Primer Orden](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_sistema.py) . . . . . . . 233
+8.5 [Sistema de ecuaciones diferenciales de primer orden](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_sistema.py) . . . . . . . 227
 
-8.6 [Problema de Valores en la Frontera: Tiro 1](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_sistema10.py) . . . . . . . . . . . . . . . . . 237
+8.6 [Problema de valores en la frontera: tiro 1](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_sistema10.py) . . . . . . . . . . . . . . . . . 231
 
-8.7 [Problema de Valores en la Frontera: Tiro 2](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_sistema20.py) . . . . . . . . . . . . . . . . . 238
+8.7 [Problema de valores en la frontera: tiro 2](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_sistema20.py) . . . . . . . . . . . . . . . . . 232
 
-8.8 [Problema de Valores en la Frontera: Tiro 3](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_sistema11.py) . . . . . . . . . . . . . . . . . 239
+8.8 [Problema de valores en la frontera: tiro 3](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_sistema11.py) . . . . . . . . . . . . . . . . . 233
 
-8.9 [Problema de Valores en la Frontera: Diferencias Finitas](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_diffin.py) . . . . . . 243
+8.9 [Problema de valores en la frontera: diferencias finitas](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edo_diffin.py) . . . . . . 237
 
 ## :point_right: Ecuaciones diferenciales parciales
 
-9.1 [Solución de Laplace con condiciones Dirichlet](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_Laplace_dirichlet.py) . . . . . . . . . . . . . . 254
+9.1 [Solución de Laplace con condiciones Dirichlet](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_Laplace_dirichlet.py) . . . . . . . . . . . . . . 248
 
-9.2 [Solución de Laplace con condiciones Neumann - Dirichlet](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_Laplace_newmann_dirichlet.py) . . . 257
+9.2 [Solución de Laplace con condiciones Neumann - Dirichlet](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_Laplace_newmann_dirichlet.py) . . . 251
 
-9.3 [Temperatura de la barra en el tiempo](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_barra.py) . . . . . . . . . . . . . . . . . . . . . . 265
+9.3 [Temperatura de la barra en el tiempo, mátodo explícito](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_barra.py) . . . . . . . . . . . . . . . . . . . . . . 258
 
-9.4 [Temperatura de la barra en el tiempo](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_barra2.py) . . . . . . . . . . . . . . . . . . . . . . 268
+9.4 [Temperatura de la barra en el tiempo, método implícito](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_barra2.py) . . . . . . . . . . . . . . . . . . . . . . 261
+
+9.4 [Temperatura de la barra en el tiempo, método implícito de Crank-Nicolson](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/edp_cn.py) . . . . . . . . . . . . . . . . . . . . . . 265
