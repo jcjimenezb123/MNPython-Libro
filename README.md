@@ -156,7 +156,7 @@
 
 7.11 [Integral impropia](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_impropias.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 207
 
-7.12 [Integral impropia $\pi$](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_impropias2.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 208
+7.12 [Integral impropia pi](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_impropias2.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 208
 
 7.13 [Integral impropia 3](https://github.com/jcjimenezb123/MNPython-Libro/blob/main/int_impropias3.py) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
 
